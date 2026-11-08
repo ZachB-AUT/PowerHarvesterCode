@@ -1,5 +1,11 @@
-# Wait a minute!
+# I AM SO SORRY
 
-Apollogies, I am having some issues getting this thing to upload to github properly.
-I have my industrial robotics report due tonight and DO NOT have time to fix
-git problems right now. Will have my code up here as soon as possible! Sorry Michael!
+I completely forgot to upload this. Please accept my apologies. I haven't
+changed anything here since I submitted my report.
+
+# Power Line Simulator
+
+This simulates the power output of a energy harvesting device for a power line,
+which can be used to find the most mass-efficient geometry.
+
+This takes an _extremely_ long time to run, but the data collected can be found in `data/`

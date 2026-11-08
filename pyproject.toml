@@ -1,0 +1,11 @@
+[project]
+name = "power-line-harvester"
+version = "0.1.0"
+description = "FEMM + circuit simulation of a split-core magnetic energy harvester"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "matplotlib>=3.11.2",
+    "numpy>=2.4.6",
+    "pyfemm>=0.1.3",
+]
