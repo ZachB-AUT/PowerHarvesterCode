@@ -22,10 +22,6 @@ AI was used for the following purposes:
   - During the early phases of writing this, I ran the programs manually. I used AI to generate the `Makefile`, which automates some of the work of running things.
   - This affects the files:
     - `makefile`
-- Some exploratory work:
-  - There are cases where I had an idea quickly, and got an LLM to check if it was feasible. I have left these in because I checked them myself and they work.
-  - This affects the files:
-    - `validation/*`]
 - Making it so the program can resume.
   - Following a computer crash that lead to the loss of 6 hours of simulation time, I had an LLM modify `harvester-reimplementation` to save results as it goes.
 
